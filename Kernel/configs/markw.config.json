@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
+      "name": "a54",
+      "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "device": "s5e8835-a54xnaxx",
+      "defconfig": "configs/s5e8835-a54xnaxx_defconfig"
     },
     "toolchains": [
       {
