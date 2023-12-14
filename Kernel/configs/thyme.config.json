@@ -4,7 +4,7 @@
       "name": "a54",
       "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "lineage-20.0",
-      "device": "s5e8835-a54xnaxx",
+      "device": "a54x",
       "defconfig": "configs/s5e8835-a54xnaxx_defconfig"
     },
     "enableCcache": true,
@@ -46,11 +46,11 @@
   },
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Google）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "name": "a54",
+      "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "device": "a54x",
+      "defconfig": "configs/s5e8835-a54xnaxx_defconfig"
     },
     "toolchains": [
       {
@@ -92,11 +92,11 @@
   },
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Utsav）",
-      "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
+      "name": "a54",
+      "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "android13-stable",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "device": "a54x",
+      "defconfig": "configs/s5e8835-a54xnaxx_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
