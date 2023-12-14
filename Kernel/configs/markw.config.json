@@ -5,7 +5,7 @@
       "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "master",
       "device": "a54xzc",
-      "defconfig": "configs/s5e8835-a54xnaxx_defconfig"
+      "defconfig": "s5e8835-a54xnaxx_defconfig"
     },
     "toolchains": [
       {
