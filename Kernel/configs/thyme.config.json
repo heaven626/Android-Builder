@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "a54",
+      "name": "a54x",
       "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "lineage-20.0",
       "device": "a54x",
@@ -46,7 +46,7 @@
   },
   {
     "kernelSource": {
-      "name": "a54",
+      "name": "a54x",
       "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "lineage-20.0",
       "device": "a54x",
@@ -92,7 +92,7 @@
   },
   {
     "kernelSource": {
-      "name": "a54",
+      "name": "a54x",
       "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "android13-stable",
       "device": "a54x",
