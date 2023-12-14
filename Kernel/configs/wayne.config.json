@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
+      "name": "a54",
+      "repo": "https://github.com/heaven626/Samsung-Mobile-kernel-source-for-s5e8835-devices--Exynos-1380-.git",
       "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "device": "s5e8835-a54xnaxx",
+      "defconfig": "configs/s5e8835-a54xnaxx_defconfig"
     },
     "toolchains": [
       {
